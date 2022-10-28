@@ -1,0 +1,30 @@
+{
+	"version": "said",
+
+
+
+"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
+	"applovinbanner": "77c64f9e99e23763",
+	"applovininter": "11414c0241b0e82a",
+	"applovinreward": "b4c66b4a4984eaf1",
+	
+	"ironsdk": "b4c66b4a4984eaf1",
+
+
+
+
+
+"adsSwitch detail ": " 1:iron 2:applovin 0:auto",
+"adsSwitchInter": "2",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "2",
+
+"adscounter": "1"
+
+	
+
+
+
+
+
+}
