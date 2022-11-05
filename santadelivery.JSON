@@ -1,5 +1,5 @@
 {
-	"version": "said1",
+	"version": "said2",
 
 
 
@@ -15,11 +15,11 @@
 
 
 "adsSwitch detail ": " 1:iron 2:applovin 0:auto",
-"adsSwitchInter": "1",
-"adsSwitchBanner": "1",
-"adsSwitchReward": "1",
+"adsSwitchInter": "2",
+"adsSwitchBanner": "2",
+"adsSwitchReward": "2",
 
-"adscounter": "1"
+"adscounter": "2"
 
 	
 
