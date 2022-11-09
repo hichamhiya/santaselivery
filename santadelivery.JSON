@@ -1,5 +1,5 @@
 {
-	"version": "said v2",
+	"version": "said v3",
 
 
 
@@ -20,9 +20,9 @@
 
 
 "adsSwitch detail ": " 1:iron 2:applovin 3:admob 0:auto",
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2",
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1",
 
 "adscounter": "1"
 
