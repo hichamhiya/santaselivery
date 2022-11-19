@@ -8,7 +8,7 @@
 	"applovininter": "11414c0241b0e82a",
 	"applovinreward": "b4c66b4a4984eaf1",
 	
-	"ironsdk": "114b18dc5",
+	"ironsdk": "176a17e25",
 	
 	
 
@@ -20,9 +20,9 @@
 
 
 "adsSwitch detail ": " 1:iron 2:applovin 3:admob 0:auto",
-"adsSwitchInter": "3",
-"adsSwitchBanner": "3",
-"adsSwitchReward": "3",
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1",
 
 "adscounter": "1"
 
